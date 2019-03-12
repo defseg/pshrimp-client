@@ -4,15 +4,15 @@ self.__precacheManifest = [
     "url": "/pshrimp-client/static/js/runtime~main.85d2c895.js"
   },
   {
-    "revision": "5c7d3422a0265d176df4",
-    "url": "/pshrimp-client/static/js/main.5c7d3422.chunk.js"
+    "revision": "804befb39aacefc2b7c4",
+    "url": "/pshrimp-client/static/js/main.804befb3.chunk.js"
   },
   {
     "revision": "4e8447b0feb436725e53",
     "url": "/pshrimp-client/static/js/2.4e8447b0.chunk.js"
   },
   {
-    "revision": "5c7d3422a0265d176df4",
+    "revision": "804befb39aacefc2b7c4",
     "url": "/pshrimp-client/static/css/main.374f87f7.chunk.css"
   },
   {
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/pshrimp-client/static/css/2.ad07282f.chunk.css"
   },
   {
-    "revision": "aae54e67ed1b800b584331658745369e",
+    "revision": "85804d7dff7d324c431e55a088a4d41e",
     "url": "/pshrimp-client/index.html"
   }
 ];
