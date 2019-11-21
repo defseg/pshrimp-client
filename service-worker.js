@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/pshrimp-client/precache-manifest.58b1314c3fe9964b8cd5b17843795977.js"
+  "/pshrimp-client/precache-manifest.425e642b5141bde8836cb5661a98abe4.js"
 );
 
 workbox.clientsClaim();
